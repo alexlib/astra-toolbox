@@ -44,3 +44,4 @@ __pycache__
 # MSVC build output
 /build/msvc/bin/
 /build/msvc/release/
+uv.lock
